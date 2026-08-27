@@ -8,7 +8,7 @@
    * and output will be shown in terminal or GUI
 ## Pythons View of Execution
    * First convert the source code (.py) into bytecode(.pyc)
-   * Bytecode is hidden from user in hidden directory __pyache__ and it contains bytecode instructions
+   * Bytecode is hidden from user in hidden directory __pycache__ and it contains bytecode instructions
    * Bytecode instructions is told it is faster than source files
    * Bytecode instructions is Python specific
    * If the Source file don't change or there is no alternate python version it skips the compilation(translation) process and execut
@@ -21,4 +21,6 @@
 3.IronPython : For .NET and C#
 4.Numba : Peformance enhacement for Numpy or math related loops
 5.PyPy: which makes execution still faster
-      
+
+# Frozen Binaries
+Frozen binaries means the bundling the interpetor , PVM, standard library to give into executables so you can run without installing python
