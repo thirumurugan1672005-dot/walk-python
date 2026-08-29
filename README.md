@@ -1,4 +1,6 @@
-How I Learned Python Day by Day
+# How I Learned Python Day by Day
+
+# Phase - 1 Introduction
 1. Python Intution
 2. How Python runs Programs
 3. How We run Python Programs
