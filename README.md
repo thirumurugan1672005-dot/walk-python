@@ -8,4 +8,5 @@
 5. Introduction to Strings
 6. String common operations
 7. Introduction to Lists
+8. Introduction to Dictionary
   
