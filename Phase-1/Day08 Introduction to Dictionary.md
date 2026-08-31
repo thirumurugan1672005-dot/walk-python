@@ -31,7 +31,7 @@ person = {
 
 # Way 3
 ```py
-person = dict(name='Karen',age=25,'salary'=25_000)
+person = dict(name='Karen',age=25,salary=25_000)
 ```
 
 # Way 4
