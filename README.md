@@ -11,4 +11,5 @@
 8. Introduction to Dictionary
 9. Introduction to Unicode
 10. Introduction to Tuples and files
+11. Other Data Types : Sets , Files , Boolean , None
   
