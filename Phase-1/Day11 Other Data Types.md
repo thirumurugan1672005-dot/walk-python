@@ -39,12 +39,12 @@ A = {1,2,3}
 B = {1,2,5,6} 
 print(A - B) # {3}
 ```
-4. > (subset)
+4. < (subset)
 checks A is subset of B
 ```py
 A = {1,2,3}
 B = {1,2,3,4,5,6}
-print(A > B) # A is subset of B
+print(A < B) # A is subset of B
 ```
 # Booleans and None
 * Boolean : 1 for True and 0 for false 
