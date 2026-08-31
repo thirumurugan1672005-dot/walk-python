@@ -15,7 +15,7 @@ print(fruits[1:])
 ```py
 fruits = ['apple','oranges','bananas']
 print(fruit.count('apple'))
-print(fruit.find('apple')) # 0
+print(fruit.index('apple')) # 0
 ```
 
 # Introduction to Files
