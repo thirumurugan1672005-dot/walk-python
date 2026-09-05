@@ -26,12 +26,12 @@ complex numbers
 - real part is optional
 - imaginary part is j or J
 
-Hexadecimals 
-hex(integer) : hex string it contains 0x or 0X followed by (0-9) and (A-F) upper or lower case
-Octal
-oct(integer) : oct string it contains 0o or 0O followed by 0-7
-Binary
-bin(integer) : binary string which contains 0b or 0B followed by 0 or 1
+### Hexadecimals 
+* hex(integer) : hex string it contains 0x or 0X followed by (0-9) and (A-F) upper or lower case
+### Octal
+* oct(integer) : oct string it contains 0o or 0O followed by 0-7
+### Binary
+* bin(integer) : binary string which contains 0b or 0B followed by 0 or 1
 
 int(str,base)
 * base : 2 for binary
