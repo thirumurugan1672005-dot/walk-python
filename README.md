@@ -22,3 +22,6 @@
 6. Floating Point issues : Precision , Comparison 
 7. How Parthensis avoids precedence
 8. Mixing Numeric Types
+9. Function objects and Decimal objects
+10. Set objects and Boolean
+11. Bitwise operators
