@@ -65,3 +65,10 @@ a = 'a\n'
 name = r'C:/hello'
 ```
 
+
+# Warnings
+
+* Large Octal strings like \400 greater than 256 show syntax wanring
+* ' C:\f\p' shows syntax warning
+* Syntax warnings can be future errors
+
